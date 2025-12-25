@@ -1,0 +1,5 @@
+{
+  "name": "Khan Medical Complex Management System",
+  "description": "A comprehensive medical store management system featuring medicine inventory, billing, stock tracking, and reporting with persistent local storage.",
+  "requestFramePermissions": []
+}
